@@ -78,6 +78,7 @@ li {
     }
    footer {
        display: flex;
+       flex-wrap:wrap;
        justify-content: space-around;
        align-items: center;
        font-size: 0.7rem;
